@@ -1,2 +1,2 @@
 # redes-sociais-iniciante
- Criação de uma rede social simples
+ Criação de uma bio simples do instagram, apenas com CSS e HTML.
